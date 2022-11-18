@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Ritwika101
-- 👀 I’m interested in Machine learning and Computer vision.
-- 🌱 I’m currently working as an SDE-I!
+- 👀 I’m interested in Machine learning and Computer vision!
+- 🌱 I’m currently an SDE-I, working with Nodejs, ExpressJs, Mongodb, Redis, GCP Datastore, Celery etc.
+- 
 
 
 <!---
