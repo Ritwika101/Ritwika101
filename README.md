@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Ritwika101
 - 👀 I’m interested in Machine learning and Computer vision!
-- 🌱 I’m currently an SDE-I, working with Nodejs, ExpressJs, Mongodb, Redis, GCP Datastore, Celery etc.
-- 
+- 🌱 I’m an SDE-I, working in Nodejs, ExpressJs, Mongodb, Redis, GCP Datastore, Celery etc.
 
 
 <!---
