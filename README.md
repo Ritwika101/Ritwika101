@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ritwika101
 - 🌱 I’m an SDE-I, working in JavaScript, TypeScript, Node.js, Express.js, Mongodb, Redis, RabbitMQ, Python, Datastore, Celery etc.
-- - 👀 I’m interested in Machine learning and Computer vision!
+-  👀 I’m interested in Machine learning and Computer vision!
 
 
 <!---
